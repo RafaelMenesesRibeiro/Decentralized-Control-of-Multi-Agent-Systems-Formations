@@ -1,2 +1,2 @@
-# Decentralized-Control-of-Multi-Agent-Systems-Formations
-Simulations figures and videos for paper "Decentralized Control of Multi-Agent Systems Formations"
+# Decentralized Formation Control for Multi-Agent Systems based on Flocking Rules
+Simulations figures and videos for paper "Decentralized Formation Control for Multi-Agent Systems based on Flocking Rules"
